@@ -1,11 +1,11 @@
 {
   "brand": {
-    "name": "Фитнес-Клуб: Место Для Физической Активности И Здоровья Studio",
-    "industry": "фитнес-клуб: место для физической активности и здоровья"
+    "name": "Фитнес-Клуб Studio",
+    "industry": "Фитнес-клуб"
   },
   "hero": {
     "title": "Создайте идеальный лендинг",
-    "subtitle": "Решения для фитнес-клуб: место для физической активности и здоровья"
+    "subtitle": "Решения для Фитнес-клуб"
   },
   "sections": [
     {
@@ -24,5 +24,5 @@
   "images": {
     "hero": []
   },
-  "logo": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\">\n            <circle cx=\"100\" cy=\"100\" r=\"90\" fill=\"#00b894\" />\n            <text x=\"100\" y=\"120\" font-family=\"Arial\" font-size=\"80\" fill=\"white\" text-anchor=\"middle\">Ф</text>\n        </svg>"
+  "logo": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\">\n            <circle cx=\"100\" cy=\"100\" r=\"90\" fill=\"#764ba2\" />\n            <text x=\"100\" y=\"120\" font-family=\"Arial\" font-size=\"80\" fill=\"white\" text-anchor=\"middle\">f</text>\n        </svg>"
 }
