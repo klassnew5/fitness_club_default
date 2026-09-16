@@ -1,0 +1,28 @@
+{
+  "brand": {
+    "name": "Фитнес-Клуб: Место Для Физической Активности И Здоровья Studio",
+    "industry": "фитнес-клуб: место для физической активности и здоровья"
+  },
+  "hero": {
+    "title": "Создайте идеальный лендинг",
+    "subtitle": "Решения для фитнес-клуб: место для физической активности и здоровья"
+  },
+  "sections": [
+    {
+      "id": "about",
+      "title": "О нас",
+      "content": "Мы создаём уникальные проекты."
+    }
+  ],
+  "footer": {
+    "copyright": "© 2025",
+    "contacts": {
+      "email": "info@example.com",
+      "phone": "+7 (999) 123-45-67"
+    }
+  },
+  "images": {
+    "hero": []
+  },
+  "logo": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\">\n            <circle cx=\"100\" cy=\"100\" r=\"90\" fill=\"#00b894\" />\n            <text x=\"100\" y=\"120\" font-family=\"Arial\" font-size=\"80\" fill=\"white\" text-anchor=\"middle\">Ф</text>\n        </svg>"
+}
