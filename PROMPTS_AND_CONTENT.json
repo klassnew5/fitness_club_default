@@ -1,28 +1,53 @@
 {
+  "seo": {
+    "title": "Фитнес-клуб: место, где у Вас может произойти miracles",
+    "description": "Попробуйте наш фитнес-клуб и получите результаты, которых вы только dreamedali!"
+  },
   "brand": {
-    "name": "Фитнес-Клуб Studio",
-    "industry": "Фитнес-клуб"
+    "name": "FitClub",
+    "industry": "Фитнес-клуб: место, где у Вас может произойти miracles"
   },
   "hero": {
-    "title": "Создайте идеальный лендинг",
-    "subtitle": "Решения для Фитнес-клуб"
+    "title": "Начать свой путь к здоровью и благополучию",
+    "subtitle": "Наш фитнес-клуб - это место, где вы сможете добиться своих целей!",
+    "description": "Мы предлагаем различные услуги, чтобы помочь вам достичь своей формы",
+    "cta_text": "Начать"
   },
   "sections": [
     {
       "id": "about",
       "title": "О нас",
-      "content": "Мы создаём уникальные проекты."
+      "content": "Наш фитнес-клуб - это место, где вы сможетеพบиться с людьми, разделяющими вашу цель.",
+      "features": [
+        "Личный тренер",
+        "Продвижаемая диета",
+        "Почти каждый день"
+      ]
+    },
+    {
+      "id": "services",
+      "title": "Услуги",
+      "items": [
+        {
+          "name": "Услуга1",
+          "description": "Мы предлагаем различные услуги, чтобы помочь вам достичь своей формы"
+        },
+        {
+          "name": "Услуга2",
+          "description": "Наше equipe из личных тренеров будет помочь вам в вашем пути к здоровью"
+        }
+      ]
     }
   ],
   "footer": {
-    "copyright": "© 2025",
+    "copyright": "2023 FitClub. Все права защищены.",
     "contacts": {
-      "email": "info@example.com",
-      "phone": "+7 (999) 123-45-67"
+      "email": "info@fitclub.ru",
+      "phone": "+7 (123) 456 78 90"
     }
   },
   "images": {
     "hero": []
   },
-  "logo": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\">\n            <circle cx=\"100\" cy=\"100\" r=\"90\" fill=\"#764ba2\" />\n            <text x=\"100\" y=\"120\" font-family=\"Arial\" font-size=\"80\" fill=\"white\" text-anchor=\"middle\">f</text>\n        </svg>"
+  "logo": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\">\n            <circle cx=\"100\" cy=\"100\" r=\"90\" fill=\"#00b894\" />\n            <text x=\"100\" y=\"120\" font-family=\"Arial\" font-size=\"80\" fill=\"white\" text-anchor=\"middle\">F</text>\n        </svg>"
 }
